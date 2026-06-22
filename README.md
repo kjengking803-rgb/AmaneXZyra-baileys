@@ -51,6 +51,6 @@ Dirancang agar ringan, cepat, dan mudah digunakan, serta mendukung berbagai fitu
 
 # Installation
 
-npm install KelvinXRaiden/baileys
+npm install AmaneXZyra/baileys
 
 ---

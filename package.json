@@ -1,7 +1,7 @@
 {
-    "name": "KelvinXRaiden-baileys",
-    "version": "2.0.0",
-    "description": "baileys modifikasi by kelvin",
+    "name": "AmaneXZyra-baileys",
+    "version": "3.0.0",
+    "description": "baileys modifikasi by Amane",
     "keywords": [
         "whatsapp",
         "laurine-wabot",
@@ -13,7 +13,7 @@
         "stvnnvs"
     ],
     "license": "MIT",
-    "author": "Anjau Gurinjay",
+    "author": "AmaneXZyra",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
